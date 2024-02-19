@@ -1,0 +1,3 @@
+C:/Users/Bebdor/CLionProjects/Script2/cmake-build-debug/CMakeFiles/Script2.dir
+C:/Users/Bebdor/CLionProjects/Script2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bebdor/CLionProjects/Script2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
